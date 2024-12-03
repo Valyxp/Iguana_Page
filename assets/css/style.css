@@ -1,0 +1,101 @@
+/* CONFIGURACIÓN GENERAL */
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+/* BODY */
+body {
+    background-color: #000000;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal; 
+}
+
+/* HEADER */
+header {
+    padding: 20px;
+    font-size: 30px;
+}
+
+#bg-header img {
+    width: 100%;
+}
+
+/* SECCION 1 */
+#la-iguana {
+   padding: 50px 150px;
+   color: #FFFFFF;
+}
+
+#la-iguana img {
+    width: 400px;
+}
+
+#la-iguana .texto, img {
+    display: inline-block;
+    vertical-align: middle;
+} 
+
+#la-iguana .texto {
+    text-align: left;
+    width: 50%;
+    margin: 60px;
+}
+
+/* SECCION 2 */
+#caracter {
+    padding: 80px 120px;
+    background-color: #1E1A13;
+}
+
+#caracter article {
+    display: inline-block;
+    margin: 0px 50px;
+    font-size: 20px;
+}
+
+#caracter h2 {
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+#caracter article i {
+    margin-bottom: 45px;
+}
+
+#caracter article h3 {
+    font-size: 20px;
+}
+
+/* SECCION 3 */
+#fotos {
+    padding: 80px;
+}
+
+#fotos article {
+    display: inline-block;
+    margin: 16px;
+}
+
+#fotos article img {
+   height: 200px;
+}
+
+/* FOOTER */
+footer {
+    padding: 40px;
+    background-color: #1E1A13;  
+}
+
+
+
+
+
+
+
+
